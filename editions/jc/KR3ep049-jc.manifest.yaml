@@ -1,0 +1,293 @@
+canonical_identifier: bkk:krp/KR3ep049/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep049/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 顧氏醫案
+  identifiers:
+    krp: KR3ep049
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep049.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep049_000-jc.yaml, hash: 'sha256:23bfef9b96aeb067aea7cf18e7cedbaa852de3cb555ba1d12ab1651243bfbdff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep049_000-jc.markers.yaml, hash: 'sha256:64d0c3bdb9cc986992e92702fb0742cff908fa81dda279b881c7fd9bc9c1b37c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 11363
+  label: 一女科時症門二百四方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d3.h1s1
+    span:
+    - body
+    - 11363
+    - 12319
+  label: 二瘧疾門二十四方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d4.h1s1
+    span:
+    - body
+    - 12319
+    - 13196
+  label: 三痢疾門十八方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d5.h1s1
+    span:
+    - body
+    - 13196
+    - 14625
+  label: 四肝火肝風門三十四方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d6.h1s1
+    span:
+    - body
+    - 14625
+    - 15389
+  label: 五痰門二十一方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d7.h1s1
+    span:
+    - body
+    - 15389
+    - 16633
+  label: 六肝氣門三十三方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d8.h1s1
+    span:
+    - body
+    - 16633
+    - 16733
+  label: 七疝氣門三方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d9.h1s1
+    span:
+    - body
+    - 16733
+    - 16891
+  label: 八喘門五方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d10.h1s1
+    span:
+    - body
+    - 16891
+    - 17167
+  label: 九中風門九方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d11.h1s1
+    span:
+    - body
+    - 17167
+    - 18096
+  label: 十痹痿門二十四方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d12.h1s1
+    span:
+    - body
+    - 18096
+    - 18153
+  label: 十一黃疸門二方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d13.h1s1
+    span:
+    - body
+    - 18153
+    - 18219
+  label: 十二郁門二方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d14.h1s1
+    span:
+    - body
+    - 18219
+    - 18971
+  label: 十三勞怯門二十二方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d15.h1s1
+    span:
+    - body
+    - 18971
+    - 19440
+  label: 十四咳嗽門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d16.h1s1
+    span:
+    - body
+    - 19440
+    - 20070
+  label: 十五吐血門二十方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d17.h1s1
+    span:
+    - body
+    - 20070
+    - 20666
+  label: 十六腫脹門十七方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d18.h1s1
+    span:
+    - body
+    - 20666
+    - 21025
+  label: 十七噎膈門十一方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d19.h1s1
+    span:
+    - body
+    - 21025
+    - 21146
+  label: 十八噯噫痞塊門四方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d20.h1s1
+    span:
+    - body
+    - 21146
+    - 21264
+  label: 十九不食不寐門五方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d21.h1s1
+    span:
+    - body
+    - 21264
+    - 21394
+  label: 二十癃閉腸痹門四方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d22.h1s1
+    span:
+    - body
+    - 21394
+    - 21454
+  label: 二十一遺泄門二方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d23.h1s1
+    span:
+    - body
+    - 21454
+    - 21599
+  label: 二十二泄瀉門五方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d24.h1s1
+    span:
+    - body
+    - 21599
+    - 21930
+  label: 二十三便血門五方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d25.h1s1
+    span:
+    - body
+    - 21930
+    - 22465
+  label: 二十四淋症門十四方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d26.h1s1
+    span:
+    - body
+    - 22465
+    - 22561
+  label: 二十五蟲門二方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d27.h1s1
+    span:
+    - body
+    - 22561
+    - 23099
+  label: 二十六產後調經胎前崩漏門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep049_jc_000-d28.h1s1
+    span:
+    - body
+    - 23099
+    - 23261
+  label: 附釋成方三方
+  type: section
+  level: 1
+hash: sha256:ef9062355bf3010ada46271f4ec851c2114682f2a2ee7686208b6b9aee43e578
